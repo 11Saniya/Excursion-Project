@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+body{
+  float: overflow;
+  text-align: center;
+  color: white;
+}
+
+.vid {
+ text-align: center;   
+}
+.text1{
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ font-weight: normal;
+ font-size: 50px;
+ color:white;
+ text-align: center;
+}
+.text2 a{
+    color: aquamarine;
+    font-size: 15px;
+    text-decoration: underline;
+}
+.text3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300px;
+    font-size: 42px;
+}
+.text4{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 21px;
+  color: gray;
+}
+.text5{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300px;
+    font-size: 42px;
+}
+.text6 a{
+    color: aquamarine;
+    font-size: 15px;
+    text-decoration: underline;
+    
+}
+.icon {
+    color: gray;
+   text-align: right;
+   margin: 10px 10px;
+   padding: 10px 10px;
+   font-size: 20px;
+   text-decoration: none;
+}
